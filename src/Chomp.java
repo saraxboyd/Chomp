@@ -214,7 +214,7 @@ public class Chomp {
 	public static void instructions(){
 		System.out.println("Chomp");
 		System.out.println("Rules: Two players take turns eating a cookie from the board.");
-		System.out.println("For each cookie eaten, all the cookies to the right and left of that");
+		System.out.println("For each cookie eaten, all the cookies to the right of and below that");
 		System.out.println("cookie are also taken away from the board. The cookie at the top left of");
 		System.out.println("the board is poisoned. The object of the game is to clear the board and");
 		System.out.println("not be the player forced to eat the poisoned cookie.");
